@@ -1,6 +1,6 @@
 # Physics-Informed Sylvester Normalizing Flows for Bayesian Inference in Magnetic Resonance Spectroscopy
 
-[Physics-Informed Sylvester Normalizing Flows for Bayesian Inference in Magnetic Resonance Spectroscopy]()
+[Physics-Informed Sylvester Normalizing Flows for Bayesian Inference in Magnetic Resonance Spectroscopy](https://arxiv.org/abs/2505.03590)
 
 ## Abstract
 
